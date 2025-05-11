@@ -103,4 +103,3 @@ Future versions could incorporate dynamic data (e.g., weather, IoT sensors) for 
 - Lundberg & Lee (2017), SHAP: https://arxiv.org/abs/1705.07874
 - Abdar et al. (2021), Uncertainty in Deep Learning: https://doi.org/10.1016/j.inffus.2021.05.008
 - Hosmer et al. (2013), Applied Logistic Regression, Wiley
-- DHL & IBM (2018), AI in Logistics: https://www.logistics.dhl/content/dam/dhl/global/core/documents/pdf/glo-core-ai-in-logistics.pdf
